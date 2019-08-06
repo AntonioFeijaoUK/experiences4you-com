@@ -3,9 +3,11 @@
 Experiences To Do in a country, place, city a location of your choice! Check for the available experiences!
 
 
-* [Holland](/Holland/)
+* [Holland](/Holland/index.html)
 
-* [Portugal](/Portugal/)
+* [Portugal](/Portugal/index.html)
   
-* [United Kingdom](/United-Kingdom/)
+* [United Kingdom](/United-Kingdom/index.html)
   
+  ![Coming soon](/images/coming-soon.jpg)
+
