@@ -1,5 +1,3 @@
-# Lisbon - Jose G -  Climbing
+# Surf in Peniche
 
-Experiences To Do in a country, place, city a location of your choice! Check for the available experiences!
-
-Climbing with Jose G.
+Come surf with Estrela :fa-star:
