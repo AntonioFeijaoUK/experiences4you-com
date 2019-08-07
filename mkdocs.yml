@@ -42,7 +42,7 @@ extra:
     tokenizer: '[\s\-\.]+'
 
 extra_css:
-  - 'assets/stylesheets/extra.css'
+  - '/assets/stylesheets/extras.css'
 
 # Extensions
 markdown_extensions:
