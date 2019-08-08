@@ -231,21 +231,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/holy-see/</loc>
-     <lastmod>2019-08-08</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.experiences4you.com/holy-see/holland-cityx-paula-g-city-tour/</loc>
-     <lastmod>2019-08-08</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.experiences4you.com/holy-see/holland-cityx-paula-g-geo-info-experience/</loc>
-     <lastmod>2019-08-08</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://www.experiences4you.com/hungary/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
@@ -296,12 +281,27 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/italy/holland-cityx-paula-g-city-tour/</loc>
+     <loc>https://www.experiences4you.com/italy/rome/holland-cityx-paula-g-city-tour/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/italy/holland-cityx-paula-g-geo-info-experience/</loc>
+     <loc>https://www.experiences4you.com/italy/rome/holland-cityx-paula-g-geo-info-experience/</loc>
+     <lastmod>2019-08-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.experiences4you.com/italy/vatican-city/</loc>
+     <lastmod>2019-08-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.experiences4you.com/italy/vatican-city/holland-cityx-paula-g-city-tour/</loc>
+     <lastmod>2019-08-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.experiences4you.com/italy/vatican-city/holland-cityx-paula-g-geo-info-experience/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -317,21 +317,6 @@
     </url>
     <url>
      <loc>https://www.experiences4you.com/latvia/holland-cityx-paula-g-geo-info-experience/</loc>
-     <lastmod>2019-08-08</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.experiences4you.com/lexumbourg/</loc>
-     <lastmod>2019-08-08</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.experiences4you.com/lexumbourg/holland-cityx-paula-g-city-tour/</loc>
-     <lastmod>2019-08-08</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.experiences4you.com/lexumbourg/holland-cityx-paula-g-geo-info-experience/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -366,6 +351,21 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://www.experiences4you.com/luxembourg/</loc>
+     <lastmod>2019-08-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.experiences4you.com/luxembourg/holland-cityx-paula-g-city-tour/</loc>
+     <lastmod>2019-08-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.experiences4you.com/luxembourg/holland-cityx-paula-g-geo-info-experience/</loc>
+     <lastmod>2019-08-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://www.experiences4you.com/malta/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
@@ -396,17 +396,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/monoco/</loc>
+     <loc>https://www.experiences4you.com/monaco/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/monoco/holland-cityx-paula-g-city-tour/</loc>
+     <loc>https://www.experiences4you.com/monaco/holland-cityx-paula-g-city-tour/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/monoco/holland-cityx-paula-g-geo-info-experience/</loc>
+     <loc>https://www.experiences4you.com/monaco/holland-cityx-paula-g-geo-info-experience/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -571,12 +571,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/russia/holland-cityx-paula-g-city-tour/</loc>
+     <loc>https://www.experiences4you.com/russia/moscow/holland-cityx-paula-g-city-tour/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/russia/holland-cityx-paula-g-geo-info-experience/</loc>
+     <loc>https://www.experiences4you.com/russia/moscow/holland-cityx-paula-g-geo-info-experience/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -706,12 +706,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/united-kingdom/united-kingdom-london-danish-baking/</loc>
+     <loc>https://www.experiences4you.com/united-kingdom/london/ant-f/united-kingdom-london-hayabusa/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.experiences4you.com/united-kingdom/united-kingdom-london-hayabusa/</loc>
+     <loc>https://www.experiences4you.com/united-kingdom/london/kat-g/united-kingdom-london-danish-baking/</loc>
      <lastmod>2019-08-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
