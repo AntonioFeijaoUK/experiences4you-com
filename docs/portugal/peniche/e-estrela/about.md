@@ -2,6 +2,6 @@
 
 Professional surfer
 
-![Surfer](./images/surger.jpg)
+![Surfer](./images/surfer.jpg)
 
 - Image from <https://unsplash.com/photos/_CFv3bntQlQ>
