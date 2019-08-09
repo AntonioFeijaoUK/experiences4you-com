@@ -1,3 +1,5 @@
 # About Portugal
 
-About Portugal
+Portugal...
+
+Be the first to represent your country and city! Look for a contact on the first page...
