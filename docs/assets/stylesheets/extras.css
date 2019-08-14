@@ -3,7 +3,14 @@ img[src*="#thumbnail"] {
     #height:100px;
  }
  
- code {
+
+img[src*="#thumbnail50"] {
+   width:50%;
+   #height:100px;
+}
+
+
+code {
     color:#009999 !important;
     background-color:#F7F7F7 !important;
     
@@ -14,6 +21,6 @@ img[src*="#thumbnail"] {
     border-radius: 5px !important;
  }
  
- p {
+p {
     font-size: 14px;
  }
