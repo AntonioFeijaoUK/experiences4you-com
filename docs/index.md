@@ -1,6 +1,6 @@
 # Home
 
-## Experience 4 You
+## Experiences 4 You
 
 ![Experiences for you around the world](assets/images/kalen-emsley-mgJSkgIo_JI-unsplash_small.jpg)
 
